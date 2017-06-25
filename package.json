@@ -1,0 +1,13 @@
+{
+    "name": "nodejs",
+    "version": "0.0.1",
+    "description": "NgocNH practice nodejs",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon --watch server.js"
+    },
+    "dependencies": {
+        "mime": "^1.3.6",
+        "nodemon": "^1.11.0"
+    }
+}
